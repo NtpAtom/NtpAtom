@@ -7,6 +7,6 @@ Frontend
 กำลังฝึกพัฒนาตัวเองในการเขียนโค้ด ให้เป็นFullstack
 
 *   🌍  I'm based in Samutprakarn, Thailand
-*   🚀  I'm currently working on [Ecom](http://https://ecom-frontend-theta-cyan.vercel.app/)
+*   🚀  I'm currently working on [Ecom](https://ecom-frontend-theta-cyan.vercel.app/)
 
                 
