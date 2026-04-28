@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-กำลังฝึกพัฒนาตัวเองในการเขียนโค้ด ให้เป็นFullstack
+
 
 *   🌍  I'm based in Samutprakarn, Thailand
 *   🚀  I'm currently working on [Ecom](https://ecom-frontend-theta-cyan.vercel.app/)
